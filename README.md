@@ -1,6 +1,6 @@
-Fixed the problem, download or update the client password (1)
+Fixed the problem, download or update the (client password) (1)
 
-Исправлена ​​проблема, скачайте или обновите пароль клиента (1)
+Исправлена ​​проблема, скачайте или обновите клиент  (пароль клиента) (1)
 
 ![изображение](https://github.com/user-attachments/assets/fdd99712-bfd6-4511-b466-13606a15ef3c)
 
