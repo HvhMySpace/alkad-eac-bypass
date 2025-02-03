@@ -1,7 +1,7 @@
-Fixed the problem, download or update the (client password) (1)
+Fixed the problem, download or update the client 
 New design
 
-Исправлена ​​проблема, скачайте или обновите клиент  (пароль клиента) (1)
+Исправлена ​​проблема, скачайте или обновите клиент 
 Новый дизайн
 
 ![изображение](https://github.com/user-attachments/assets/c5516ad8-f5be-4087-9017-9698b045235c)
