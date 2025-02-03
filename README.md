@@ -22,7 +22,7 @@ New design
 
 7. Если игра не запускается с первого раза, попробуйте снова, и она должна запуститься.
 
-#DISCORD
+# DISCORD
 
 ![изображение](https://github.com/user-attachments/assets/01c49c89-8129-4aaf-a7c3-fdb6ac43f7f4)
 
