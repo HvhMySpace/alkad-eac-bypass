@@ -28,6 +28,6 @@ New design*
 
 ![изображение](https://github.com/user-attachments/assets/01c49c89-8129-4aaf-a7c3-fdb6ac43f7f4)
 
-https://discord.gg/zDBnbP47
+[https://discord.gg/zDBnbP47](https://discord.gg/mBPpfFSush)
 
 Ник **HvhMySpace**
