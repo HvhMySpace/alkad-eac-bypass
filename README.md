@@ -2,6 +2,7 @@ Fixed the problem, download or update the client password (1)
 
 Исправлена ​​проблема, скачайте или обновите пароль клиента (1)
 
+![изображение](https://github.com/user-attachments/assets/4d1ae690-a884-4ee7-bd90-8099d9ec6012)
 
 
 alkad eac bypass гайд
