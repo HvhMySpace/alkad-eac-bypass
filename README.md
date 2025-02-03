@@ -21,7 +21,4 @@ If you don't speak Russian, use a translator
 
 у кого не работает - вы лох, переделывание обхода на ++ не будет потому что мне чьючьють похуй
 
-https://www.virustotal.com/gui/file/e2cddd4ae53251b4ae8b6c1473575af867815aecd845f82a63e33703e188043d/detection
-Создатель
-
 ник HvhMySpace
