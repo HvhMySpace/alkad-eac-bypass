@@ -1,4 +1,4 @@
-ALKAD RUST
+# Alkad Rust EAC Bypass FIX
 
 Fixed the problem, download or update the client 
 New design
@@ -21,6 +21,8 @@ New design
 6. Программа запоминает путь к папке с игрой. Если нужно сбросить настройки, используйте соответствующую опцию.
 
 7. Если игра не запускается с первого раза, попробуйте снова, и она должна запуститься.
+
+#DISCORD
 
 ![изображение](https://github.com/user-attachments/assets/01c49c89-8129-4aaf-a7c3-fdb6ac43f7f4)
 
