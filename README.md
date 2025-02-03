@@ -1,9 +1,9 @@
 # Alkad Rust EAC Bypass FIX
 
-*Fixed the problem, download or update the client 
+*Fixed the problem, "download or update the client" 
 New design*
 
-**Исправлена ​​проблема, скачайте или обновите клиент 
+**Исправлена ​​проблема, "скачайте или обновите клиент" 
 Новый дизайн*
 
 ![изображение](https://github.com/user-attachments/assets/33015512-d235-46ac-8956-8338758ce380)
