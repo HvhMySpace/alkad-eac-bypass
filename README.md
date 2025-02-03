@@ -1,13 +1,10 @@
 Fixed the problem, download or update the (client password) (1)
-
 New design
 
 Исправлена ​​проблема, скачайте или обновите клиент  (пароль клиента) (1)
-
 Новый дизайн
 
 ![изображение](https://github.com/user-attachments/assets/c5516ad8-f5be-4087-9017-9698b045235c)
-
 
 
 1. Запустите программу, предпочтительно от имени администратора.
