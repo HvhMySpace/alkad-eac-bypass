@@ -2,7 +2,7 @@ Fixed the problem, download or update the client password (1)
 
 Исправлена ​​проблема, скачайте или обновите пароль клиента (1)
 
-![изображение](https://github.com/user-attachments/assets/4d1ae690-a884-4ee7-bd90-8099d9ec6012)
+![изображение](https://github.com/user-attachments/assets/68103b0a-83f6-4208-8b49-1ff96f198511)
 
 
 alkad eac bypass гайд
@@ -24,4 +24,4 @@ If you don't speak Russian, use a translator
 https://www.virustotal.com/gui/file/e2cddd4ae53251b4ae8b6c1473575af867815aecd845f82a63e33703e188043d/detection
 Создатель
 
-ник usehvh
+ник HvhMySpace
