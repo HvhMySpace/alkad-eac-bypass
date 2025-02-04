@@ -6,7 +6,7 @@ New design*
 **Исправлена ​​проблема, "скачайте или обновите клиент" 
 Новый дизайн*
 
-![изображение](https://github.com/user-attachments/assets/33015512-d235-46ac-8956-8338758ce380)
+![изображение](https://github.com/user-attachments/assets/114f30b2-1e1b-4e9d-9837-a7226d406cb5)
 
 # WARNING!!!!
 
